@@ -1,0 +1,91 @@
+2017-11-14 12:57:01 [QueryLastPlace.go.22] INF ==========================查询GPS开始：%s %s/127.0.0.1
+2017-11-14 12:57:01 [QueryLastPlace.go.35] DBG select longitude, latitude ,gps_time,addtime,speed,temperature from cry_coldchain where car_code='123'   and longitude+0<399
+		 order by addtime desc limit 0,1
+2017-11-14 12:57:01 [QueryLastPlace.go.37] WRN Error 1146: Table 'crydb.cry_coldchain' doesn't exist
+2017-11-14 12:57:01 [QueryLastPlace.go.38] INF ==========================查询GPS结束
+
+
+2017-11-14 12:57:50 [QueryLastPlace.go.22] INF ==========================查询GPS开始：%s %s/127.0.0.1
+2017-11-14 12:57:50 [QueryLastPlace.go.35] DBG select longitude, latitude ,gps_time,addtime,speed,temperature from cry_coldchain where car_code='123'   and longitude+0<399
+		 order by addtime desc limit 0,1
+2017-11-14 12:57:50 [QueryLastPlace.go.37] WRN Error 1146: Table 'crydb.cry_coldchain' doesn't exist
+2017-11-14 12:57:50 [QueryLastPlace.go.38] INF ==========================查询GPS结束
+
+
+2017-11-14 14:41:03 [QueryLastPlace.go.22] INF ==========================查询GPS开始：%s %s/127.0.0.1
+2017-11-14 14:41:03 [QueryLastPlace.go.35] DBG select longitude, latitude ,gps_time,addtime,speed,temperature from cry_coldchain where car_code='123'   and longitude+0<399
+		 order by addtime desc limit 0,1
+2017-11-14 14:41:03 [QueryLastPlace.go.37] WRN Error 1146: Table 'crydb.cry_coldchain' doesn't exist
+2017-11-14 14:41:03 [QueryLastPlace.go.38] INF ==========================查询GPS结束
+
+
+2017-11-14 14:41:32 [QueryLastPlace.go.22] INF ==========================查询GPS开始：%s %s/127.0.0.1
+2017-11-14 14:41:32 [QueryLastPlace.go.35] DBG select longitude, latitude ,gps_time,addtime,speed,temperature from cry_coldchain where car_code='123'   and longitude+0<399
+		 order by addtime desc limit 0,1
+2017-11-14 14:41:32 [QueryLastPlace.go.37] WRN Error 1146: Table 'crydb.cry_coldchain' doesn't exist
+2017-11-14 14:41:32 [QueryLastPlace.go.38] INF ==========================查询GPS结束
+
+
+2017-11-14 14:42:00 [QueryLastPlace.go.22] INF ==========================查询GPS开始：%s %s/127.0.0.1
+2017-11-14 14:42:00 [QueryLastPlace.go.35] DBG select longitude, latitude ,gps_time,addtime,speed,temperature from cry_coldchain where car_code='123'   and longitude+0<399
+		 order by addtime desc limit 0,1
+2017-11-14 14:42:00 [QueryLastPlace.go.37] WRN Error 1146: Table 'crydb.cry_coldchain' doesn't exist
+2017-11-14 14:42:00 [QueryLastPlace.go.38] INF ==========================查询GPS结束
+
+
+[GIN] 2017/11/14 - 14:42:00 | 200 [0m|     416.487µs |       127.0.0.1 |  GET [0m    /
+2017-11-14 14:42:08 [QueryLastPlace.go.22] INF ==========================查询GPS开始：%s %s/127.0.0.1
+2017-11-14 14:42:08 [QueryLastPlace.go.35] DBG select longitude, latitude ,gps_time,addtime,speed,temperature from cry_coldchain where car_code='123'   and longitude+0<399
+		 order by addtime desc limit 0,1
+2017-11-14 14:42:08 [QueryLastPlace.go.37] WRN Error 1146: Table 'crydb.cry_coldchain' doesn't exist
+2017-11-14 14:42:08 [QueryLastPlace.go.38] INF ==========================查询GPS结束
+
+
+[GIN] 2017/11/14 - 14:42:08 | 200 [0m|     430.835µs |       127.0.0.1 |  GET [0m    /
+2017-11-14 14:43:30 [QueryLastPlace.go.22] INF ==========================查询GPS开始：%s %s/127.0.0.1
+2017-11-14 14:43:30 [QueryLastPlace.go.35] DBG select longitude, latitude ,gps_time,addtime,speed,temperature from cry_coldchain where car_code='123'   and longitude+0<399
+		 order by addtime desc limit 0,1
+2017-11-14 14:43:30 [QueryLastPlace.go.37] WRN Error 1146: Table 'crydb.cry_coldchain' doesn't exist
+2017-11-14 14:43:30 [QueryLastPlace.go.38] INF ==========================查询GPS结束
+
+
+2017-11-14 14:47:47 [QueryLastPlace.go.22] INF ==========================查询GPS开始：%s %s/127.0.0.1
+2017-11-14 14:47:47 [QueryLastPlace.go.35] DBG select longitude, latitude ,gps_time,addtime,speed,temperature from cry_coldchain where car_code='123'   and longitude+0<399
+		 order by addtime desc limit 0,1
+2017-11-14 14:47:47 [QueryLastPlace.go.97] INF ==========================查询GPS结束
+
+
+2017-11-15 12:48:33 [main.go.25] INF =======监听本地端口
+2017-11-15 12:48:33 [main.go.26] INF =======数据库地址:localhost
+2017-11-15 12:48:33 [main.go.27] INF =======数据库用户:root
+2017-11-15 12:48:33 [main.go.28] INF =======数据库密码:123123
+2017-11-15 12:48:33 [main.go.30] INF =======数据库名称:crydb
+2017-11-15 12:49:02 [main.go.25] INF =======监听本地端口15555
+2017-11-15 12:49:02 [main.go.26] INF =======数据库地址:localhost
+2017-11-15 12:49:02 [main.go.27] INF =======数据库用户:root
+2017-11-15 12:49:02 [main.go.28] INF =======数据库密码:123123
+2017-11-15 12:49:02 [main.go.30] INF =======数据库名称:crydb
+2017-11-15 12:49:29 [main.go.25] INF =======监听本地端口:15555
+2017-11-15 12:49:29 [main.go.26] INF =======数据库地址:localhost
+2017-11-15 12:49:29 [main.go.27] INF =======数据库用户:root
+2017-11-15 12:49:29 [main.go.28] INF =======数据库密码:123123
+2017-11-15 12:49:29 [main.go.30] INF =======数据库名称:crydb
+2017-11-15 12:49:48 [main.go.25] INF =======服务器端口:15555
+2017-11-15 12:49:48 [main.go.26] INF =======数据库地址:localhost
+2017-11-15 12:49:48 [main.go.27] INF =======数据库用户:root
+2017-11-15 12:49:48 [main.go.28] INF =======数据库密码:123123
+2017-11-15 12:49:48 [main.go.30] INF =======数据库名称:crydb
+2017-11-15 12:54:32 [main.go.26] INF =======服务器端口:15555
+2017-11-15 12:54:32 [main.go.27] INF =======数据库地址:localhost
+2017-11-15 12:54:32 [main.go.28] INF =======数据库端口:3306
+2017-11-15 12:54:32 [main.go.29] INF =======数据库用户:root
+2017-11-15 12:54:32 [main.go.30] INF =======数据库密码:123123
+2017-11-15 12:54:32 [main.go.33] INF =======数据库名称:crydb
+2017-11-15 12:54:32 [main.go.34] INF Mysql数据库连接信息root:123123@tcp(localhost:3306)/crydb?charset=utf8
+2017-11-15 13:01:43 [main.go.37] INF =======服务器端口:15555
+2017-11-15 13:01:43 [main.go.38] INF =======数据库地址:localhost
+2017-11-15 13:01:43 [main.go.39] INF =======数据库端口:3306
+2017-11-15 13:01:43 [main.go.40] INF =======数据库用户:root
+2017-11-15 13:01:43 [main.go.41] INF =======数据库密码:123123
+2017-11-15 13:01:43 [main.go.44] INF =======数据库名称:crydb
+2017-11-15 13:01:43 [main.go.45] INF Mysql数据库连接信息:root:123123@tcp(localhost:3306)/crydb?charset=utf8

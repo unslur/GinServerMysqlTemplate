@@ -1,0 +1,575 @@
+2017-11-15 14:22:30 [main.go.40] INF =======服务器端口:15555
+2017-11-15 14:22:30 [main.go.41] INF =======数据库地址:localhost
+2017-11-15 14:22:30 [main.go.42] INF =======数据库端口:3306
+2017-11-15 14:22:30 [main.go.43] INF =======数据库用户:root
+2017-11-15 14:22:30 [main.go.44] INF =======数据库密码:123123
+2017-11-15 14:23:13 [main.go.41] INF =======服务器端口:15555
+2017-11-15 14:23:13 [main.go.42] INF =======数据库地址:localhost
+2017-11-15 14:23:13 [main.go.43] INF =======数据库端口:3306
+2017-11-15 14:23:13 [main.go.44] INF =======数据库用户:root
+2017-11-15 14:23:13 [main.go.45] INF =======数据库密码:123123
+2017-11-15 14:23:13 [main.go.49] INF =======数据库名称:crydb
+2017-11-15 14:23:13 [main.go.92] INF 1000
+2017-11-15 14:23:18 [context.go.207] INF Shutdown Server ...interrupt
+2017-11-15 14:24:07 [main.go.41] INF =======服务器端口:15555
+2017-11-15 14:24:07 [main.go.42] INF =======数据库地址:localhost
+2017-11-15 14:24:07 [main.go.43] INF =======数据库端口:3306
+2017-11-15 14:24:07 [main.go.44] INF =======数据库用户:root
+2017-11-15 14:24:07 [main.go.45] INF =======数据库密码:123123
+2017-11-15 14:24:07 [main.go.49] INF =======数据库名称:crydb
+2017-11-15 14:24:07 [main.go.92] INF 1000
+2017-11-15 14:24:23 [context.go.207] INF Shutdown Server by signal:interrupt
+2017-11-15 14:24:24 [main.go.41] INF =======服务器端口:15555
+2017-11-15 14:24:24 [main.go.42] INF =======数据库地址:localhost
+2017-11-15 14:24:24 [main.go.43] INF =======数据库端口:3306
+2017-11-15 14:24:24 [main.go.44] INF =======数据库用户:root
+2017-11-15 14:24:24 [main.go.45] INF =======数据库密码:123123
+2017-11-15 14:24:24 [main.go.49] INF =======数据库名称:crydb
+2017-11-15 14:24:24 [main.go.92] INF 1000
+2017-11-15 14:25:35 [context.go.207] INF Shutdown Server by signal:interrupt
+2017-11-15 14:25:36 [main.go.41] INF =======服务器端口:15555
+2017-11-15 14:25:36 [main.go.42] INF =======数据库地址:localhost
+2017-11-15 14:25:36 [main.go.43] INF =======数据库端口:3306
+2017-11-15 14:25:36 [main.go.44] INF =======数据库用户:root
+2017-11-15 14:25:36 [main.go.45] INF =======数据库密码:123123
+2017-11-15 14:25:36 [main.go.49] INF =======数据库名称:crydb
+2017-11-15 14:25:36 [main.go.91] INF 1000
+2017-11-15 14:25:40 [context.go.207] INF Shutdown Server by signal:interrupt
+2017-11-15 14:25:40 [main.go.41] INF =======服务器端口:15555
+2017-11-15 14:25:40 [main.go.42] INF =======数据库地址:localhost
+2017-11-15 14:25:40 [main.go.43] INF =======数据库端口:3306
+2017-11-15 14:25:40 [main.go.44] INF =======数据库用户:root
+2017-11-15 14:25:40 [main.go.45] INF =======数据库密码:123123
+2017-11-15 14:25:40 [main.go.49] INF =======数据库名称:crydb
+2017-11-15 14:25:41 [context.go.207] INF Shutdown Server by signal:interrupt
+2017-11-30 10:08:28 [main.go.41] INF =======服务器端口:15555
+2017-11-30 10:08:28 [main.go.42] INF =======数据库地址:localhost
+2017-11-30 10:08:28 [main.go.43] INF =======数据库端口:3306
+2017-11-30 10:08:28 [main.go.44] INF =======数据库用户:root
+2017-11-30 10:08:28 [main.go.45] INF =======数据库密码:123123
+2017-11-30 10:08:28 [main.go.49] INF =======数据库名称:crydb
+2017-11-30 10:10:19 [context.go.207] INF Shutdown Server by signal:interrupt
+2017-11-30 10:10:20 [main.go.41] INF =======服务器端口:15555
+2017-11-30 10:10:20 [main.go.42] INF =======数据库地址:localhost
+2017-11-30 10:10:20 [main.go.43] INF =======数据库端口:3306
+2017-11-30 10:10:20 [main.go.44] INF =======数据库用户:root
+2017-11-30 10:10:20 [main.go.45] INF =======数据库密码:123123
+2017-11-30 10:10:20 [main.go.49] INF =======数据库名称:crydb
+2017-11-30 10:15:05 [context.go.207] INF Shutdown Server by signal:interrupt
+2017-11-30 13:41:38 [main.go.45] INF =======服务器端口:15555
+2017-11-30 13:41:38 [main.go.46] INF =======数据库地址:localhost
+2017-11-30 13:41:38 [main.go.47] INF =======数据库端口:3306
+2017-11-30 13:41:38 [main.go.48] INF =======数据库用户:root
+2017-11-30 13:41:38 [main.go.49] INF =======数据库密码:123123
+2017-11-30 13:42:05 [main.go.45] INF =======服务器端口:15555
+2017-11-30 13:42:05 [main.go.46] INF =======数据库地址:localhost
+2017-11-30 13:42:05 [main.go.47] INF =======数据库端口:3306
+2017-11-30 13:42:05 [main.go.48] INF =======数据库用户:root
+2017-11-30 13:42:05 [main.go.49] INF =======数据库密码:123123
+2017-11-30 13:43:38 [main.go.45] INF =======服务器端口:15555
+2017-11-30 13:43:38 [main.go.46] INF =======数据库地址:localhost
+2017-11-30 13:43:38 [main.go.47] INF =======数据库端口:3306
+2017-11-30 13:43:38 [main.go.48] INF =======数据库用户:root
+2017-11-30 13:43:38 [main.go.49] INF =======数据库密码:123123
+2017-11-30 13:43:38 [main.go.53] INF =======数据库名称:crydb
+2017-11-30 13:44:36 [TemplateInterface.go.30] INF ==========================查询GPS开始：%s %s/cry/QueryLastPlace127.0.0.1
+2017-11-30 13:44:36 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 13:44:36 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 13:48:55 [main.go.45] INF =======服务器端口:15555
+2017-11-30 13:48:55 [main.go.46] INF =======数据库地址:localhost
+2017-11-30 13:48:55 [main.go.47] INF =======数据库端口:3306
+2017-11-30 13:48:55 [main.go.48] INF =======数据库用户:root
+2017-11-30 13:48:55 [main.go.49] INF =======数据库密码:123123
+2017-11-30 13:56:35 [main.go.45] INF =======服务器端口:15555
+2017-11-30 13:56:35 [main.go.46] INF =======数据库地址:localhost
+2017-11-30 13:56:35 [main.go.47] INF =======数据库端口:3306
+2017-11-30 13:56:35 [main.go.48] INF =======数据库用户:root
+2017-11-30 13:56:35 [main.go.49] INF =======数据库密码:123123
+2017-11-30 13:56:44 [main.go.45] INF =======服务器端口:15555
+2017-11-30 13:56:44 [main.go.46] INF =======数据库地址:localhost
+2017-11-30 13:56:44 [main.go.47] INF =======数据库端口:3306
+2017-11-30 13:56:44 [main.go.48] INF =======数据库用户:root
+2017-11-30 13:56:44 [main.go.49] INF =======数据库密码:123123
+2017-11-30 13:57:09 [main.go.45] INF =======服务器端口:15555
+2017-11-30 13:57:09 [main.go.46] INF =======数据库地址:localhost
+2017-11-30 13:57:09 [main.go.47] INF =======数据库端口:3306
+2017-11-30 13:57:09 [main.go.48] INF =======数据库用户:root
+2017-11-30 13:57:09 [main.go.49] INF =======数据库密码:123123
+2017-11-30 13:57:09 [main.go.53] INF =======数据库名称:crydb
+2017-11-30 13:57:16 [TemplateInterface.go.30] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-11-30 13:57:16 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 13:57:16 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 13:57:36 [TemplateInterface.go.30] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-11-30 13:57:36 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 13:57:36 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 13:57:37 [TemplateInterface.go.30] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-11-30 13:57:37 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 13:57:37 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 13:57:37 [TemplateInterface.go.30] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-11-30 13:57:37 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 13:57:37 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 14:00:57 [main.go.45] INF =======服务器端口:15555
+2017-11-30 14:00:57 [main.go.46] INF =======数据库地址:localhost
+2017-11-30 14:00:57 [main.go.47] INF =======数据库端口:3306
+2017-11-30 14:00:57 [main.go.48] INF =======数据库用户:root
+2017-11-30 14:00:57 [main.go.49] INF =======数据库密码:123123
+2017-11-30 14:00:57 [main.go.53] INF =======数据库名称:crydb
+2017-11-30 14:01:03 [TemplateInterface.go.30] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-11-30 14:01:03 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 14:01:03 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 14:19:26 [main.go.45] INF =======服务器端口:15555
+2017-11-30 14:19:26 [main.go.46] INF =======数据库地址:localhost
+2017-11-30 14:19:26 [main.go.47] INF =======数据库端口:3306
+2017-11-30 14:19:26 [main.go.48] INF =======数据库用户:root
+2017-11-30 14:19:26 [main.go.49] INF =======数据库密码:123123
+2017-11-30 14:54:58 [main.go.45] INF =======服务器端口:15555
+2017-11-30 14:54:58 [main.go.46] INF =======数据库地址:localhost
+2017-11-30 14:54:58 [main.go.47] INF =======数据库端口:3306
+2017-11-30 14:54:58 [main.go.48] INF =======数据库用户:root
+2017-11-30 14:54:58 [main.go.49] INF =======数据库密码:123123
+2017-11-30 15:07:29 [main.go.48] INF =======服务器端口:15555
+2017-11-30 15:07:29 [main.go.49] INF =======数据库地址:localhost
+2017-11-30 15:07:29 [main.go.50] INF =======数据库端口:3306
+2017-11-30 15:07:29 [main.go.51] INF =======数据库用户:root
+2017-11-30 15:07:29 [main.go.52] INF =======数据库密码:123123
+2017-11-30 15:07:29 [main.go.56] INF =======数据库名称:crydb
+2017-11-30 15:07:42 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-11-30 15:07:42 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:07:42 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:08:12 [main.go.48] INF =======服务器端口:15555
+2017-11-30 15:08:12 [main.go.49] INF =======数据库地址:localhost
+2017-11-30 15:08:12 [main.go.50] INF =======数据库端口:3306
+2017-11-30 15:08:12 [main.go.51] INF =======数据库用户:root
+2017-11-30 15:08:12 [main.go.52] INF =======数据库密码:123123
+2017-11-30 15:08:12 [main.go.56] INF =======数据库名称:crydb
+2017-11-30 15:08:14 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-11-30 15:08:14 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:08:14 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:08:35 [main.go.48] INF =======服务器端口:15555
+2017-11-30 15:08:35 [main.go.49] INF =======数据库地址:localhost
+2017-11-30 15:08:35 [main.go.50] INF =======数据库端口:3306
+2017-11-30 15:08:35 [main.go.51] INF =======数据库用户:root
+2017-11-30 15:08:35 [main.go.52] INF =======数据库密码:123123
+2017-11-30 15:08:35 [main.go.56] INF =======数据库名称:crydb
+2017-11-30 15:08:37 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-11-30 15:08:37 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:08:37 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:08:51 [main.go.48] INF =======服务器端口:15555
+2017-11-30 15:08:51 [main.go.49] INF =======数据库地址:localhost
+2017-11-30 15:08:51 [main.go.50] INF =======数据库端口:3306
+2017-11-30 15:08:51 [main.go.51] INF =======数据库用户:root
+2017-11-30 15:08:51 [main.go.52] INF =======数据库密码:123123
+2017-11-30 15:08:51 [main.go.56] INF =======数据库名称:crydb
+2017-11-30 15:08:53 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-11-30 15:08:53 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:08:53 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:09:13 [main.go.48] INF =======服务器端口:15555
+2017-11-30 15:09:13 [main.go.49] INF =======数据库地址:localhost
+2017-11-30 15:09:13 [main.go.50] INF =======数据库端口:3306
+2017-11-30 15:09:13 [main.go.51] INF =======数据库用户:root
+2017-11-30 15:09:13 [main.go.52] INF =======数据库密码:123123
+2017-11-30 15:09:13 [main.go.56] INF =======数据库名称:crydb
+2017-11-30 15:09:15 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-11-30 15:09:15 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:09:15 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:10:47 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:10:47 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:10:47 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:13:10 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:13:10 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:13:10 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:13:22 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:13:22 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:13:22 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:22:35 [main.go.48] INF =======服务器端口:15555
+2017-11-30 15:22:35 [main.go.49] INF =======数据库地址:localhost
+2017-11-30 15:22:35 [main.go.50] INF =======数据库端口:3306
+2017-11-30 15:22:35 [main.go.51] INF =======数据库用户:root
+2017-11-30 15:22:35 [main.go.52] INF =======数据库密码:123123
+2017-11-30 15:22:35 [main.go.56] INF =======数据库名称:crydb
+2017-11-30 15:22:40 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:22:40 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:22:40 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:23:16 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:23:16 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:23:16 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:23:25 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:23:25 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:23:25 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:24:11 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:24:11 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:24:11 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:24:33 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:24:33 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:24:33 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:24:57 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:24:57 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:24:57 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:29:33 [main.go.48] INF =======服务器端口:15555
+2017-11-30 15:29:33 [main.go.49] INF =======数据库地址:localhost
+2017-11-30 15:29:33 [main.go.50] INF =======数据库端口:3306
+2017-11-30 15:29:33 [main.go.51] INF =======数据库用户:root
+2017-11-30 15:29:33 [main.go.52] INF =======数据库密码:123123
+2017-11-30 15:29:33 [main.go.56] INF =======数据库名称:crydb
+2017-11-30 15:29:46 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-11-30 15:29:46 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:29:46 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:39:48 [main.go.48] INF =======服务器端口:15555
+2017-11-30 15:39:48 [main.go.49] INF =======数据库地址:localhost
+2017-11-30 15:39:48 [main.go.50] INF =======数据库端口:3306
+2017-11-30 15:39:48 [main.go.51] INF =======数据库用户:root
+2017-11-30 15:39:48 [main.go.52] INF =======数据库密码:123123
+2017-11-30 15:39:48 [main.go.56] INF =======数据库名称:crydb
+2017-11-30 15:39:51 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:39:51 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:39:51 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:39:52 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:39:52 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:39:52 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:39:53 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:39:53 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:39:53 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:39:53 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:39:53 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:39:53 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:39:54 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:39:54 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:39:54 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:39:57 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:39:57 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:39:57 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:39:58 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:39:58 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:39:58 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:39:58 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:39:58 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:39:58 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:39:58 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:39:58 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:39:58 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:45:38 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:45:38 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:45:38 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:45:50 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:45:50 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:45:50 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:45:51 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:45:51 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:45:51 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:45:51 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:45:51 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:45:51 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:45:51 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:45:51 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:45:51 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:45:51 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:45:51 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:45:51 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:45:51 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:45:51 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:45:51 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:45:52 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:45:52 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:45:52 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:45:52 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:45:52 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:45:52 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:45:52 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:45:52 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:45:52 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:50:13 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:50:13 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:50:13 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:50:20 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:50:20 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:50:20 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:50:21 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:50:21 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:50:21 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:50:22 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:50:22 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:50:22 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:50:22 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:50:22 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:50:22 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:50:22 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:50:22 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:50:22 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:50:26 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:50:26 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:50:26 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:51:11 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:51:11 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:51:11 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-11-30 15:51:20 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-11-30 15:51:20 [TemplateInterface.go.38] INF {2 用户被禁用 []}
+2017-11-30 15:51:20 [TemplateInterface.go.39] INF ==========================查询GPS结束
+
+
+2017-12-01 14:30:43 [main.go.48] INF =======服务器端口:15555
+2017-12-01 14:30:43 [main.go.49] INF =======数据库地址:localhost
+2017-12-01 14:30:43 [main.go.50] INF =======数据库端口:3306
+2017-12-01 14:30:43 [main.go.51] INF =======数据库用户:root
+2017-12-01 14:30:43 [main.go.52] INF =======数据库密码:123123
+2017-12-01 14:32:42 [main.go.48] INF =======服务器端口:15555
+2017-12-01 14:32:42 [main.go.49] INF =======数据库地址:localhost
+2017-12-01 14:32:42 [main.go.50] INF =======数据库端口:3306
+2017-12-01 14:32:42 [main.go.51] INF =======数据库用户:root
+2017-12-01 14:32:42 [main.go.52] INF =======数据库密码:123123
+2017-12-01 14:32:42 [main.go.56] INF =======数据库名称:crydb
+2017-12-01 14:32:50 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace::1
+2017-12-01 14:32:50 [TemplateInterface.go.35] INF map[]
+2017-12-01 14:32:50 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 14:32:50 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 14:52:57 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 14:52:57 [TemplateInterface.go.35] INF map[]
+2017-12-01 14:52:57 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 14:52:57 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 14:56:41 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 14:56:41 [TemplateInterface.go.35] INF map[Company_code:[dsfd]]
+2017-12-01 14:56:41 [TemplateInterface.go.39] INF {2 dsfd []}
+2017-12-01 14:56:41 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 14:57:01 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 14:57:01 [TemplateInterface.go.35] INF map[Company_code:[fdfdfd]]
+2017-12-01 14:57:01 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 14:57:01 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 14:57:48 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 14:57:48 [TemplateInterface.go.35] INF map[Company_code:[dsf]]
+2017-12-01 14:57:48 [TemplateInterface.go.39] INF {2 dsf []}
+2017-12-01 14:57:48 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 14:58:06 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 14:58:06 [TemplateInterface.go.35] INF map[]
+2017-12-01 14:58:06 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 14:58:06 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:02:59 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:02:59 [TemplateInterface.go.35] INF map[User_code:[dss] Order_code:[fdfdfd]]
+2017-12-01 15:02:59 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 15:02:59 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:03:52 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:03:52 [TemplateInterface.go.35] INF map[User_code:[dss] Order_code:[fdfdfd]]
+2017-12-01 15:03:52 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 15:03:52 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:04:08 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:04:08 [TemplateInterface.go.35] INF map[User_code:[dss] Order_code:[fdfdfd]]
+2017-12-01 15:04:08 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 15:04:08 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:04:17 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:04:17 [TemplateInterface.go.35] INF map[User_code:[dss] Order_code:[fdfdfd]]
+2017-12-01 15:04:17 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 15:04:17 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:04:51 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:04:51 [TemplateInterface.go.35] INF map[User_code:[dss] Order_code:[fdfdfd]]
+2017-12-01 15:04:51 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 15:04:51 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:05:56 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:05:56 [TemplateInterface.go.35] INF map[Company_code:[dss] Order_code:[fdfdfd]]
+2017-12-01 15:05:56 [TemplateInterface.go.39] INF {2 dss []}
+2017-12-01 15:05:56 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:08:26 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:08:26 [TemplateInterface.go.35] INF map[Company_code:[dss] Order_code:[fdfdfd]]
+2017-12-01 15:08:26 [TemplateInterface.go.39] INF {2 dss []}
+2017-12-01 15:08:26 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:08:46 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:08:46 [TemplateInterface.go.35] INF map[Company_code:[dss] Order_code:[fdfdfd]]
+2017-12-01 15:08:46 [TemplateInterface.go.39] INF {2 dss []}
+2017-12-01 15:08:46 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:12:39 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:12:39 [TemplateInterface.go.35] INF map[Company_code:[dss] Order_code:[fdfdfd]]
+2017-12-01 15:12:39 [TemplateInterface.go.39] INF {2 dss []}
+2017-12-01 15:12:39 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:13:12 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:13:12 [TemplateInterface.go.35] INF map[Order_code:[fdfdfd] Company_code:[dss]]
+2017-12-01 15:13:12 [TemplateInterface.go.39] INF {2 dss []}
+2017-12-01 15:13:12 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:13:44 [main.go.48] INF =======服务器端口:15555
+2017-12-01 15:13:44 [main.go.49] INF =======数据库地址:localhost
+2017-12-01 15:13:44 [main.go.50] INF =======数据库端口:3306
+2017-12-01 15:13:44 [main.go.51] INF =======数据库用户:root
+2017-12-01 15:13:44 [main.go.52] INF =======数据库密码:123123
+2017-12-01 15:15:34 [main.go.48] INF =======服务器端口:15555
+2017-12-01 15:15:34 [main.go.49] INF =======数据库地址:localhost
+2017-12-01 15:15:34 [main.go.50] INF =======数据库端口:3306
+2017-12-01 15:15:34 [main.go.51] INF =======数据库用户:root
+2017-12-01 15:15:34 [main.go.52] INF =======数据库密码:123123
+2017-12-01 15:15:34 [main.go.56] INF =======数据库名称:crydb
+2017-12-01 15:15:58 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:15:58 [TemplateInterface.go.35] INF map[Company_code:[dss] Order_code:[fdfdfd]]
+2017-12-01 15:15:58 [TemplateInterface.go.39] INF {2 dss []}
+2017-12-01 15:15:58 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:17:48 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:17:48 [TemplateInterface.go.35] INF map[Company_code:[dss] Order_code:[fdfdfd]]
+2017-12-01 15:17:48 [TemplateInterface.go.39] INF {2 dss []}
+2017-12-01 15:17:48 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:20:31 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:20:31 [TemplateInterface.go.35] INF map[]
+2017-12-01 15:20:31 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 15:20:31 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:37:42 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:37:42 [TemplateInterface.go.35] INF map[]
+2017-12-01 15:37:42 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 15:37:42 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:38:56 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:38:56 [TemplateInterface.go.35] INF map[]
+2017-12-01 15:38:56 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 15:38:56 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:43:15 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:43:15 [TemplateInterface.go.35] INF map[]
+2017-12-01 15:43:15 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 15:43:15 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:43:42 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:43:42 [TemplateInterface.go.35] INF map[]
+2017-12-01 15:43:42 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 15:43:42 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-01 15:44:11 [TemplateInterface.go.31] INF ==========================查询GPS开始:/cry/QueryLastPlace127.0.0.1
+2017-12-01 15:44:11 [TemplateInterface.go.35] INF map[]
+2017-12-01 15:44:11 [TemplateInterface.go.39] INF {2  []}
+2017-12-01 15:44:11 [TemplateInterface.go.40] INF ==========================查询GPS结束
+
+
+2017-12-05 14:30:37 [main.go.48] INF =======服务器端口:15555
+2017-12-05 14:30:37 [main.go.49] INF =======数据库地址:localhost
+2017-12-05 14:30:37 [main.go.50] INF =======数据库端口:3306
+2017-12-05 14:30:37 [main.go.51] INF =======数据库用户:root
+2017-12-05 14:30:37 [main.go.52] INF =======数据库密码:123123

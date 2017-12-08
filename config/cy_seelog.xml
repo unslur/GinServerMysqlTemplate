@@ -1,0 +1,25 @@
+<seelog type="sync">
+	<outputs formatid="print">
+		<buffered size="100">
+			<rollingfile type="date" filename="./log/cy_seelog.log" datepattern="2006.01.02" maxrolls="30"/>
+			</buffered>
+			<filter levels="debug,info,critical,error,warn">
+			<console/>
+			
+			</filter>
+			<filter levels="critical">
+            <file path="./critical.log" formatid="critical"/>	
+			<smtp formatid="criticalemail" senderaddress="chenyang@sckync.com" sendername="监控系统警报" hostname="smtp.exmail.qq.com" hostport="25" username="chenyang@sckync.com" password="vDiH6tLYa7ocottt">
+                <recipient address="cyylogo@163.com"/>
+            </smtp>		
+			</filter>		
+	</outputs>
+	<formats>
+        <format id="main" format="%Msg%n"/>
+		<format id="print" format="%Date(2006-01-02 15:04:05) [%File.%Line] %LEV %Msg%n"/>
+		<format id="critical" format="%Date(2006-01-02 15:04:05) File %FullPath %Func %Msg%n" />
+		<format id="criticalemail" format="Critical error on our server!\n    %Time %Date %RelFile %Func %Msg"/>
+    
+    </formats>
+</seelog>
+
